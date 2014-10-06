@@ -1,0 +1,9 @@
+name: DevOpsDays Chicago
+
+exclude: [Gemfile, Gemfile.lock, LICENSE, README.md]
+markdown: kramdown
+highlighter: pygments
+
+# GitHub Overrides
+safe: true
+lsi: false
